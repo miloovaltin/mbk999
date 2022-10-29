@@ -1,0 +1,16 @@
+{
+"name": "mbk999",
+"theme": "mbk999",
+"version": "1.3.6",
+"description": "mbk999 ทางเข้าเว็บไซต์พนันเว็บตรง คนเล่นเยอะ รับเครดิตฟรี",
+"keywords": [
+"mbk999",
+"mbk999 เครดิตฟรี",
+"mbk999 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/mbk999",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
